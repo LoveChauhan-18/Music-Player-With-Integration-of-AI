@@ -43,23 +43,42 @@ DATE: 12-02-26
 TOPIC:1) Made a simple flow chart that explains the role of API in the project and how it is              going to be implemented.
 
 DAY-12:
-DATE: 12-02-26
+DATE: 13-02-26
 TOPIC:1) Understanding what is HLD Diagram and discussing it with the mentor how to create one            for our Music Player.
 
 DAY-13:
-DATE: 13-02-16
+DATE: 14-02-16
 TOPIC:1) Understood what is HLD Diagram and started building it for our project.
 
 DAY-14:
-DATE: 14-02-26
+DATE: 15-02-26
 TOPIC:1) Made HLD Diagram and reviewed through our mentor.
 
 DAY-15:
-DATE: 15-02-26
+DATE: 16-02-26
 TOPIC:1) Understand what is LLD Diagram and started building it for our project.
 
 DAY-16:
-DATE: 16-02-26
+DATE: 17-02-26
 TOPIC:1) Made LLD Diagram and reviewed through our mentor.
 
+DAY-17:
+DATE: 18-02-26
+TOPIC:1) Working on Data-Flow Diagram for the Music Player.
+
+DAY-18:
+DATE: 19-02-26
+TOPIC:1) Created one diagram that explains the Data-Flow of the project.
+
+DAY-19:
+DATE: 20-02-26
+TOPIC:1) Understanding what is  Database schema/ ER diagram and how to make it for our project.
+
+DAY-20:
+DATE: 21-02-26
+TOPIC:1) Made an Database schema/ ER diagram for our Music Player.
+
+DAY-21:
+DATE: 22-02-26
+TOPIC:1) Working on Deployment Plan for the project.
 
