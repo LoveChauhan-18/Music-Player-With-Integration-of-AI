@@ -22,3 +22,13 @@ DAY-6:
 DATE: 07-02-26
 TOPIC:1) Applying for the approval for the PRD and explaing the PRD to the mentor.
 
+DAY-7:
+DATE: 08-02-26
+TOPIC:1) Working on Features breakdown or the workflow of the project.
+
+DAY-8:
+DATE: 09-02-26
+TOPIC:1) Understanding how the features are going to work and making it a simple structure to             explain the workflow/features.
+
+
+
