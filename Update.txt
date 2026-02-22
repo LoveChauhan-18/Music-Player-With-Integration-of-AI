@@ -1,5 +1,24 @@
-Day-1:
-Date: 02-02-26
+DAY-1:
+DATE: 02-02-26
 TOPIC-1) Created PRD for the Project. 
 
+DAY-2:
+DATE: 03-02-26
+TOPIC-1) Understanding the PRD and how to proceed forward with the project.
+
+DAY-3:
+DATE: 04-02-26
+TOPIC:1) Making correction in the PRD and again presenting it to the mentor
+
+DAY-4:
+DATE: 05-02-26
+TOPIC:1) Adding some ideas to the PRD that we will be including in the project.
+
+DAY-5:
+DATE: 06-02-26
+TOPIC:1) Verified again with the mentor and asked for any suggestion form the mentor. 
+
+DAY-6:
+DATE: 07-02-26
+TOPIC:1) Applying for the approval for the PRD and explaing the PRD to the mentor.
 
