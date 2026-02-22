@@ -30,5 +30,16 @@ DAY-8:
 DATE: 09-02-26
 TOPIC:1) Understanding how the features are going to work and making it a simple structure to             explain the workflow/features.
 
+DAY-9:
+DATE: 10-02-26
+TOPIC:1) Done with the features breakdown and made a flow-chart on it.
+
+DAY-10:
+DATE: 11-02-26
+TOPIC:1) Understanding how the API is going to work and discussing it with the mentor.
+
+DAY-11:
+DATE: 12-02-26
+TOPIC:1) Made a simple flow chart that explains the role of API in the project and how it is              going to be implemented.
 
 
