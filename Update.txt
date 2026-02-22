@@ -16,7 +16,7 @@ TOPIC:1) Adding some ideas to the PRD that we will be including in the project.
 
 DAY-5:
 DATE: 06-02-26
-TOPIC:1) Verified again with the mentor and asked for any suggestion form the mentor. 
+TOPIC:1) Verified again with the mentor and asked for any suggestion from the mentor. 
 
 DAY-6:
 DATE: 07-02-26
